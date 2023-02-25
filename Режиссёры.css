@@ -1,0 +1,18 @@
+html {
+    font-size: 30px;
+    background-color: rgb(196, 168, 135);
+}
+.director {
+    text-align: center;
+}
+.career {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+.films {
+    font-size: 25px;
+    text-align: end;
+}
+.l_films {
+    text-align: center;
+}
